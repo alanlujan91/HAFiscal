@@ -60,7 +60,7 @@
 \:CrossWord{)Qrelated-literature}{1}{4}%
 \:CrossWord{)Qx1-30001.1}{1}{5}%
 \:CrossWord{)Qmodel}{1}{6}%
-\:CrossWord{)Qx1-40002}{1}{6}%
+\:CrossWord{)Qx1-40002}{1}{7}%
 \:CrossWord{)Qx1-4001r1}{1}{7}%
 \:CrossWord{)Qx1-4002r2}{1}{7}%
 \:CrossWord{)Qx1-4003r3}{1}{7}%
@@ -74,7 +74,7 @@
 \:CrossWord{)F6F-}{HAFiscal6.html}{8}%
 \:CrossWord{HAFiscal6.html(L }{HAFiscal6.html}{8}%
 \:CrossWord{)Qfn5x0}{6}{8}%
-\:CrossWord{)Qx1-5003r6}{1}{8}%
+\:CrossWord{)Qx1-5003r6}{1}{9}%
 \:CrossWord{fn6x0}{}{9}%
 \:CrossWord{)Qx1-5004f6}{1}{9}%
 \:CrossWord{)BHAFiscal7.html(L }{HAFiscal.html}{9}%
@@ -97,21 +97,21 @@
 \:CrossWord{)F8F-}{HAFiscal8.html}{10}%
 \:CrossWord{HAFiscal8.html(L }{HAFiscal8.html}{10}%
 \:CrossWord{)Qfn7x0}{8}{10}%
-\:CrossWord{fn8x0}{}{10}%
-\:CrossWord{)Qx1-10002f8}{1}{10}%
-\:CrossWord{)BHAFiscal9.html(L }{HAFiscal.html}{10}%
-\:CrossWord{)F9F-}{HAFiscal9.html}{10}%
-\:CrossWord{HAFiscal9.html(L }{HAFiscal9.html}{10}%
-\:CrossWord{)Qfn8x0}{9}{10}%
-\:CrossWord{)Qparagraph*.5}{1}{10}%
+\:CrossWord{fn8x0}{}{11}%
+\:CrossWord{)Qx1-10002f8}{1}{11}%
+\:CrossWord{)BHAFiscal9.html(L }{HAFiscal.html}{11}%
+\:CrossWord{)F9F-}{HAFiscal9.html}{11}%
+\:CrossWord{HAFiscal9.html(L }{HAFiscal9.html}{11}%
+\:CrossWord{)Qfn8x0}{9}{11}%
+\:CrossWord{)Qparagraph*.5}{1}{11}%
 \:CrossWord{)Qx1-110002.1}{1}{11}%
 \:CrossWord{)Qx1-120002.2}{1}{11}%
 \:CrossWord{)Qx1-130002.3}{1}{11}%
-\:CrossWord{)Qx1-13001r7}{1}{11}%
+\:CrossWord{)Qx1-13001r7}{1}{12}%
 \:CrossWord{)Qx1-13002r8}{1}{12}%
 \:CrossWord{)Qparameterizing-the-model}{1}{12}%
 \:CrossWord{)Qx1-140003}{1}{12}%
-\:CrossWord{)QEstimation of the splurge factor}{1}{12}%
+\:CrossWord{)Qestimation-of-the-splurge-factor}{1}{12}%
 \:CrossWord{)Qx1-150003.1}{1}{12}%
 \:CrossWord{fn9x0}{}{13}%
 \:CrossWord{)Qx1-15001f9}{1}{13}%
@@ -182,7 +182,9 @@
 \:CrossWord{)F17F-}{HAFiscal17.html}{32}%
 \:CrossWord{HAFiscal17.html(L }{HAFiscal17.html}{32}%
 \:CrossWord{)Qfn16x0}{17}{32}%
+\:CrossWord{)Qcomparing-fiscal-stimulus-policies}{1}{32}%
 \:CrossWord{)Qx1-190004}{1}{32}%
+\:CrossWord{)Qimpulse-responses}{1}{33}%
 \:CrossWord{)Qx1-200004.1}{1}{33}%
 \:CrossWord{)Qx1-210004.1.1}{1}{34}%
 \:CrossWord{)Qx1-21001r3}{1}{36}%
@@ -202,6 +204,7 @@
 \:CrossWord{)F18F-}{HAFiscal18.html}{43}%
 \:CrossWord{HAFiscal18.html(L }{HAFiscal18.html}{43}%
 \:CrossWord{)Qfn17x0}{18}{43}%
+\:CrossWord{)Qmultipliers}{1}{43}%
 \:CrossWord{)Qx1-240004.2}{1}{43}%
 \:CrossWord{)Qx1-24001r6}{1}{46}%
 \:CrossWord{)Qx1-24002}{1}{46}%
@@ -209,9 +212,10 @@
 \:CrossWord{)Qx1-24003r3}{1}{49}%
 \:CrossWord{)Qx1-24004}{1}{49}%
 \:CrossWord{9cAp1}{x1-24003r3}{49}%
+\:CrossWord{)Qwelfare}{1}{50}%
 \:CrossWord{)Qx1-250004.3}{1}{50}%
 \:CrossWord{)Qx1-25002x1}{1}{50}%
-\:CrossWord{)Qx1-25004x2}{1}{50}%
+\:CrossWord{)Qx1-25004x2}{1}{51}%
 \:CrossWord{)Qx1-25006x3}{1}{51}%
 \:CrossWord{)Qx1-25007r9}{1}{51}%
 \:CrossWord{fn18x0}{}{51}%
@@ -221,12 +225,12 @@
 \:CrossWord{HAFiscal19.html(L }{HAFiscal19.html}{51}%
 \:CrossWord{)Qfn18x0}{19}{51}%
 \:CrossWord{)Qx1-25009r10}{1}{51}%
-\:CrossWord{fn19x0}{}{51}%
-\:CrossWord{)Qx1-25010f19}{1}{51}%
-\:CrossWord{)BHAFiscal20.html(L }{HAFiscal.html}{51}%
-\:CrossWord{)F20F-}{HAFiscal20.html}{51}%
-\:CrossWord{HAFiscal20.html(L }{HAFiscal20.html}{51}%
-\:CrossWord{)Qfn19x0}{20}{51}%
+\:CrossWord{fn19x0}{}{52}%
+\:CrossWord{)Qx1-25010f19}{1}{52}%
+\:CrossWord{)BHAFiscal20.html(L }{HAFiscal.html}{52}%
+\:CrossWord{)F20F-}{HAFiscal20.html}{52}%
+\:CrossWord{HAFiscal20.html(L }{HAFiscal20.html}{52}%
+\:CrossWord{)Qfn19x0}{20}{52}%
 \:CrossWord{)Qx1-25011r11}{1}{52}%
 \:CrossWord{)Qx1-25012r12}{1}{52}%
 \:CrossWord{fn20x0}{}{52}%
@@ -244,6 +248,7 @@
 \:CrossWord{)Qx1-25015r4}{1}{55}%
 \:CrossWord{)Qx1-25016}{1}{55}%
 \:CrossWord{10cAp1}{x1-25015r4}{55}%
+\:CrossWord{)Qcomparing-the-policies}{1}{56}%
 \:CrossWord{)Qx1-260004.4}{1}{56}%
 \:CrossWord{)Qrobustness}{1}{56}%
 \:CrossWord{)Qx1-270005}{1}{56}%
@@ -314,6 +319,7 @@
 \:CrossWord{19cAp1}{x1-37001r12}{84}%
 \:CrossWord{)Qsummary-of-robustness-exercises}{1}{85}%
 \:CrossWord{)Qx1-380005.5}{1}{85}%
+\:CrossWord{)Qconclusion}{1}{85}%
 \:CrossWord{)Qx1-390006}{1}{85}%
 \:CrossWord{)QQ1-1-40}{1}{87}%
 \:CrossWord{)QAppendices}{1}{87}%
