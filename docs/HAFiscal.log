@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  19 DEC 2022 19:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  20 DEC 2022 10:16
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -912,27 +912,11 @@ Package array Warning: Column d is already defined on input line 50.
 
 )
 
-./HAFiscal.tex:26: LaTeX Error: Option clash for package hyperref.
+Package hyperref Warning: Option `destlabel' has already been used,
+(hyperref)                setting the option has no effect on input line 25.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 
-     
-The package hyperref has already been loaded with options:
-  [tex4ht,tex4ht,hypertexnames=false,verbose,unicode=true,unicode=true,unicode=
-true]
-There has now been an attempt to load it with options
-  [destlabel=true]
-Adding the global options:
-  tex4ht,tex4ht,hypertexnames=false,verbose,unicode=true,unicode=true,unicode=t
-rue,destlabel=true
-to your \documentclass declaration may fix this.
-Try typing  <return>  to proceed.
-
-(/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/hyperref-hooks.4ht) (./H
-AFiscal.cfg (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+(./HAFiscal.cfg (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/tex4ht.4
+ht
 version 2020-03-12-14:03
 --------------------------------------
 --- Note --- for additional information, use the command line option `info'
@@ -2331,10 +2315,10 @@ bibliography{./Add-Refs,./HAFiscal,system}
 Dependency list written on HAFiscal.dep.
  ) 
 Here is how much of TeX's memory you used:
- 29469 strings out of 478995
- 523742 string characters out of 5858210
- 1043306 words of memory out of 5000000
- 45730 multiletter control sequences out of 15000+600000
+ 29466 strings out of 478995
+ 523581 string characters out of 5858210
+ 1043203 words of memory out of 5000000
+ 45729 multiletter control sequences out of 15000+600000
  433342 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,20n,152p,11110b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
