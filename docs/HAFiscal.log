@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  20 DEC 2022 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  28 DEC 2022 22:00
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -913,7 +913,7 @@ Package array Warning: Column d is already defined on input line 50.
 )
 
 Package hyperref Warning: Option `destlabel' has already been used,
-(hyperref)                setting the option has no effect on input line 25.
+(hyperref)                setting the option has no effect on input line 22.
 
 (./HAFiscal.cfg (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/tex4ht.4
 ht
@@ -1702,7 +1702,11 @@ version 2021-01-30-14:17
 version 2018-12-30-09:33
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/html5.4ht
 version 2021-02-14-13:56
-)) (./HAFiscal.aux)
+)) (./HAFiscal.aux
+
+LaTeX Warning: Label `sec:model' multiply defined.
+
+)
 \openout1 = `HAFiscal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
@@ -1766,6 +1770,18 @@ Package caption Info: End \AtBeginDocument code.
 \c=\count336
 ) (./Resources/LaTeXInputs/econtex_notinsubfile.tex) (./HAFiscal-titlepage.tex 
 (./econtexRoot.texinput (./Resources/econtexPaths.tex))
+
+./HAFiscal-titlepage.tex:8: LaTeX Error: Command \versn undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...boolean{Web}}{\renewcommand{\versn}{Web}}{}
+                                                    % {Web}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1879,11 +1895,11 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
 
 ]
 l. 77 Writing HAFiscal.idv[47] (HAFiscal46x.svg)
+l. 83 Writing HAFiscal.idv[48] (HAFiscal47x.svg)
+l. 83 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
 [11
 
 ]
-l. 83 Writing HAFiscal.idv[48] (HAFiscal47x.svg)
-l. 83 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
 l. 84 Writing HAFiscal.idv[50] (HAFiscal49x.svg)
 l. 87 Writing HAFiscal.idv[51] (HAFiscal50x.svg)
 ) (./Subfiles/Parameterization.tex (./Subfiles/./econtexRoot.texinput (./Subfil
@@ -2314,14 +2330,17 @@ bibliography{./Add-Refs,./HAFiscal,system}
 \openout7 = `HAFiscal.dep'.
 
 Dependency list written on HAFiscal.dep.
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 29472 strings out of 478995
- 523712 string characters out of 5858210
- 1043221 words of memory out of 5000000
- 45735 multiletter control sequences out of 15000+600000
+ 29471 strings out of 478995
+ 523710 string characters out of 5858210
+ 1043216 words of memory out of 5000000
+ 45734 multiletter control sequences out of 15000+600000
  433342 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,20n,152p,11110b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on HAFiscal.dvi (98 pages, 328520 bytes).
+Output written on HAFiscal.dvi (98 pages, 328436 bytes).
