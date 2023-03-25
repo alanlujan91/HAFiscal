@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  21 MAR 2023 22:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=latex 2021.3.25)  24 MAR 2023 22:21
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -10,8 +10,8 @@ documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
 \HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode HAFiscal.cfg,svg,charset=ut
 f-8,html5.a.b.c.\input "\detokenize{HAFiscal}"
-(./HAFiscal.tex (./econtexRoot.texinput (./Resources/econtexPaths.tex)) (./Reso
-urces/texmf-local/tex/latex/econtex.cls
+(./HAFiscal.tex (./.econtexRoot.tex (./Resources/econtexPaths.tex)) (./Resource
+s/texmf-local/tex/latex/econtex.cls
 Document Class: ./Resources/texmf-local/tex/latex/econtex 2017/08/01 LaTeX clas
 s for economics papers, handouts, and exam questions written by Christopher Car
 roll
@@ -913,7 +913,7 @@ Package array Warning: Column d is already defined on input line 50.
 )
 
 Package hyperref Warning: Option `destlabel' has already been used,
-(hyperref)                setting the option has no effect on input line 22.
+(hyperref)                setting the option has no effect on input line 21.
 
 (./HAFiscal.cfg (/usr/local/texlive/2021/texmf-dist/tex/generic/tex4ht/tex4ht.4
 ht
@@ -1769,7 +1769,7 @@ Package caption Info: End \AtBeginDocument code.
 --- file HAFiscal.css ---
 \c=\count336
 ) (./Resources/LaTeXInputs/econtex_notinsubfile.tex) (./HAFiscal-titlepage.tex 
-(./econtexRoot.texinput (./Resources/econtexPaths.tex))
+(./.econtexRoot.tex (./Resources/econtexPaths.tex))
 
 ./HAFiscal-titlepage.tex:8: LaTeX Error: Command \versn undefined.
 
@@ -1803,31 +1803,30 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 24
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 \verbatim@out=\write5
-\openout5 = `./Subfiles/Abstract.texinput'.
+\openout5 = `./Subfiles/Abstract.vrb'.
 
-(./Subfiles/Abstract.texinput)
+(./Subfiles/Abstract.vrb)
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
 8.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
-] [2]) (./HAFiscal-contents.texinput (./HAFiscal.4ct)) [3] (./Subfiles.texinput
-(./Subfiles/Intro.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/../Resourc
-es/econtexPaths.tex))
+] [2]) (./HAFiscal.4ct) (./Subfiles.texinput (./Subfiles/Intro.tex (./Subfiles/
+./.econtexRoot.tex (./Subfiles/../Resources/econtexPaths.tex))
 --- file HAFiscal2.html ---
 --- file HAFiscal3.html ---
 --- file HAFiscal4.html ---
-[1
-
-
-]
+[1]
 --- file HAFiscal5.html ---
 [2
 
 
-] [3] [4] [5]) (./Subfiles/Model.tex (./Subfiles/./econtexRoot.texinput (./Subf
-iles/../Resources/econtexPaths.tex)) [6]
+
+] [3
+
+] [4] [5] [6]) (./Subfiles/Model.tex (./Subfiles/./.econtexRoot.tex (./Subfiles
+/../Resources/econtexPaths.tex))
 l. 13 Writing HAFiscal.idv[1] (HAFiscal0x.svg)
 l. 13 Writing HAFiscal.idv[2] (HAFiscal1x.svg)
 l. 13 Writing HAFiscal.idv[3] (HAFiscal2x.svg)
@@ -1842,6 +1841,7 @@ l. 20 Writing HAFiscal.idv[7] (HAFiscal6x.svg)
 l. 20 Writing HAFiscal.idv[8] (HAFiscal7x.svg)
 l. 20 Writing HAFiscal.idv[9] (HAFiscal8x.svg)
 l. 21 Writing HAFiscal.idv[10] (HAFiscal9x.svg)
+[7]
 l. 24 Writing HAFiscal.idv[11] (HAFiscal10x.svg)
 l. 25 Writing HAFiscal.idv[12] (HAFiscal11x.svg)
 l. 28 Writing HAFiscal.idv[13] (HAFiscal12x.svg)
@@ -1851,7 +1851,6 @@ l. 28 Writing HAFiscal.idv[16] (HAFiscal15x.svg)
 l. 28 Writing HAFiscal.idv[17] (HAFiscal16x.svg)
 l. 28 Writing HAFiscal.idv[18] (HAFiscal17x.svg)
 l. 29 Writing HAFiscal.idv[19] (HAFiscal18x.svg)
-[7]
 l. 34 Writing HAFiscal.idv[20] (HAFiscal19x.svg)
 l. 34 Writing HAFiscal.idv[21] (HAFiscal20x.svg)
 l. 39 Writing HAFiscal.idv[22] (HAFiscal21x.svg)
@@ -1862,11 +1861,9 @@ l. 42 Writing HAFiscal.idv[25] (HAFiscal24x.svg)
 l. 42 Writing HAFiscal.idv[26] (HAFiscal25x.svg)
 l. 42 Writing HAFiscal.idv[27] (HAFiscal26x.svg)
 l. 42 Writing HAFiscal.idv[28] (HAFiscal27x.svg)
+[8]
 l. 44 Writing HAFiscal.idv[29] (HAFiscal28x.svg)
 l. 45 Writing HAFiscal.idv[30] (HAFiscal29x.svg)
-[8
-
-]
 l. 52 Writing HAFiscal.idv[31] (HAFiscal30x.svg)
 l. 52 Writing HAFiscal.idv[32] (HAFiscal31x.svg)
 l. 52 Writing HAFiscal.idv[33] (HAFiscal32x.svg)
@@ -1881,14 +1878,16 @@ l. 54 Writing HAFiscal.idv[40] (HAFiscal39x.svg)
 l. 54 Writing HAFiscal.idv[41] (HAFiscal40x.svg)
 l. 54 Writing HAFiscal.idv[42] (HAFiscal41x.svg)
 l. 54 Writing HAFiscal.idv[43] (HAFiscal42x.svg)
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 60.
 [9
 
+
 ]
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 60.
+[10]
 --- file HAFiscal8.html ---
 --- file HAFiscal9.html ---
-[10
+[11
 
 
 ]
@@ -1897,8 +1896,8 @@ l. 83 Writing HAFiscal.idv[45] (HAFiscal44x.svg)
 l. 83 Writing HAFiscal.idv[46] (HAFiscal45x.svg)
 l. 84 Writing HAFiscal.idv[47] (HAFiscal46x.svg)
 l. 87 Writing HAFiscal.idv[48] (HAFiscal47x.svg)
-) (./Subfiles/Parameterization.tex (./Subfiles/./econtexRoot.texinput (./Subfil
-es/../Resources/econtexPaths.tex)) [11]
+) (./Subfiles/Parameterization.tex (./Subfiles/./.econtexRoot.tex (./Subfiles/.
+./Resources/econtexPaths.tex)) [12]
 --- file HAFiscal10.html ---
 l. 22 Writing HAFiscal.idv[49] (HAFiscal48x.svg)
 l. 22 Writing HAFiscal.idv[50] (HAFiscal49x.svg)
@@ -1906,7 +1905,7 @@ l. 22 Writing HAFiscal.idv[51] (HAFiscal50x.svg)
 l. 22 Writing HAFiscal.idv[52] (HAFiscal51x.svg)
 --- file HAFiscal11.html ---
 l. 22 Writing HAFiscal.idv[53] (HAFiscal52x.svg)
-[12] [13
+[13
 
 
 ] [14
@@ -2034,8 +2033,8 @@ l. 240 Writing HAFiscal.idv[114] (HAFiscal113x.svg)
 l. 240 Writing HAFiscal.idv[115] (HAFiscal114x.svg)
 l. 242 Writing HAFiscal.idv[116] (HAFiscal115x.svg)
 l. 242 Writing HAFiscal.idv[117] (HAFiscal116x.svg)
-) (./Subfiles/Comparing-policies.tex (./Subfiles/./econtexRoot.texinput (./Subf
-iles/../Resources/econtexPaths.tex)) [32
+) (./Subfiles/Comparing-policies.tex (./Subfiles/./.econtexRoot.tex (./Subfiles
+/../Resources/econtexPaths.tex)) [32
 
 
 
@@ -2138,8 +2137,8 @@ l. 132 Writing HAFiscal.idv[149] (HAFiscal148x.svg)
 l. 1 Writing HAFiscal.idv[150] (HAFiscal149x.svg)
 ) [55
 
-]) (./Subfiles/Robustness.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/..
-/Resources/econtexPaths.tex)) [56
+]) (./Subfiles/Robustness.tex (./Subfiles/./.econtexRoot.tex (./Subfiles/../Res
+ources/econtexPaths.tex)) [56
 
 ]
 l. 15 Writing HAFiscal.idv[151] (HAFiscal150x.svg)
@@ -2304,11 +2303,11 @@ l. 224 Writing HAFiscal.idv[226] (HAFiscal225x.svg)
 l. 251 Writing HAFiscal.idv[227] (HAFiscal226x.svg)
 [87
 
-]) (./Subfiles/Conclusion.tex (./Subfiles/./econtexRoot.texinput (./Subfiles/..
-/Resources/econtexPaths.tex)) [88
+]) (./Subfiles/Conclusion.tex (./Subfiles/./.econtexRoot.tex (./Subfiles/../Res
+ources/econtexPaths.tex)) [88
 
-])) [89] (./Subfiles/Appendix.tex (./Subfiles/./econtexRoot.texinput (./Subfile
-s/../Resources/econtexPaths.tex))
+])) [89] (./Subfiles/Appendix.tex (./Subfiles/./.econtexRoot.tex (./Subfiles/..
+/Resources/econtexPaths.tex))
 l. 18 Writing HAFiscal.idv[228] (HAFiscal227x.svg)
 l. 18 Writing HAFiscal.idv[229] (HAFiscal228x.svg)
 [90] [91
@@ -2338,12 +2337,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 29480 strings out of 478995
- 523899 string characters out of 5858210
- 1043244 words of memory out of 5000000
- 45743 multiletter control sequences out of 15000+600000
+ 29476 strings out of 478995
+ 523669 string characters out of 5858210
+ 1043228 words of memory out of 5000000
+ 45741 multiletter control sequences out of 15000+600000
  433342 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,20n,152p,11110b,856s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 125i,20n,152p,11110b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on HAFiscal.dvi (101 pages, 332236 bytes).
+Output written on HAFiscal.dvi (100 pages, 332080 bytes).
